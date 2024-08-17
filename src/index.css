@@ -1,0 +1,137 @@
+body {
+    font-family: 'Vazir';
+    background-color: #121212;
+  }
+  
+  .card-bg {
+    background-color: #1e1e1e;
+    border: 1px solid #333333;
+    border-radius: 0.5rem;
+  }
+  
+  .card-tag {
+    background-color: #333333;
+    padding: 0.3rem 1rem;
+    margin-top: 0.5rem;
+    border-radius: 1rem;
+  }
+  
+  .inpout-bg {
+    background-color: #272727;
+    border: none;
+    outline: none;
+    color: #bdbdbd;
+  }
+  
+  .inpout-bg:focus {
+    color: #fafafa;
+    background-color: #272727;
+    border-color: none;
+    box-shadow: none;
+  }
+  
+  .modal-tag {
+    background-color: #333333;
+    border: none;
+    color: #fafafa;
+  }
+  
+  .modal-tag:focus {
+    color: #fafafa;
+    background-color: #333333;
+    border-color: none;
+    box-shadow: none;
+  }
+  
+  pre {
+    text-align: left;
+    color: #bdbdbd;
+    padding: 1rem;
+    margin: 2rem 0;
+    direction: ltr;
+  }
+  
+  .css-13cymwt-control {
+    background: #272727 !important;
+    border: none !important;
+    color: #fafafa !important;
+  }
+  
+  .post {
+    font-size: 1.3rem;
+    line-height: 1.9rem;
+    padding: 1rem 1.3rem;
+    margin: 3rem 0;
+    color: #e0e0e0;
+  }
+  
+  .post-card {
+    min-height: 8rem;
+  }
+  
+  .post h3 {
+    padding-top: 1.7rem;
+    padding-bottom: 0.2rem;
+    color: #f5f5f5;
+  }
+  
+  .css-1jqq78o-placeholder {
+    color: #fafafa !important;
+  }
+  
+  .css-1nmdiq5-menu {
+    background: #434242 !important;
+  }
+  
+  .css-art2ul-ValueContainer2 {
+    background-color: #272727;
+  }
+  
+  .css-1xc3v61-indicatorContainer {
+    background-color: #272727;
+  }
+  
+  .css-d7l1ni-option {
+    background: #121212 !important;
+  }
+  
+  .css-1p3m7a8-multiValue {
+    background: #0d0d0d !important;
+  }
+  
+  .css-1y7rh0y-MultiValueGeneric2 {
+    color: #fafafa !important;
+  }
+  
+  .css-1i837h3-ValueContainer2 {
+    background: #272727 !important;
+  }
+  
+  #react-select-3-input {
+    color: #fafafa !important;
+  }
+  
+  .css-1xc3v61-indicatorContainer {
+    background: #272727 !important;
+  }
+  
+  .css-4xgw5l-IndicatorsContainer2 {
+    background: #272727 !important;
+  }
+  
+  .css-1xc3v61-indicatorContainer:hover {
+    color: hsl(0, 0%, 80%) !important;
+  }
+  
+  .css-15lsz6c-indicatorContainer {
+    color: hsl(0, 0%, 80%) !important;
+  }
+  
+  .css-15lsz6c-indicatorContainer:hover {
+    color: hsl(0, 0%, 80%) !important;
+  }
+  
+  .css-w9q2zk-Input2 {
+    outline: none !important;
+  }
+  
